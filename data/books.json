@@ -1,0 +1,58 @@
+[
+  {
+    "id": "5c3de8c0-4861-466f-ae8b-1cbeadd727b8",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programming",
+    "publishedYear": 2008,
+    "userId": "7aa7890a-c047-48b0-b17f-945c50b1ad18"
+  },
+  {
+    "id": "ca7c78e4-2278-427c-b658-16fae5fc7763",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "publishedYear": 1925,
+    "userId": "7aa7890a-c047-48b0-b17f-945c50b1ad18"
+  },
+  {
+    "id": "ebf27c7f-228d-4bca-859f-c3277bf7126b",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publishedYear": 1960,
+    "userId": "7aa7890a-c047-48b0-b17f-945c50b1ad18"
+  },
+  {
+    "id": "4298c5b9-ac03-4bdb-9c0f-dc27a29c7e87",
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "publishedYear": 1949,
+    "userId": "7aa7890a-c047-48b0-b17f-945c50b1ad18"
+  },
+  {
+    "id": "8f722a64-2603-48fa-9b50-b9f4e7914863",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publishedYear": 1937,
+    "userId": "3082bfc0-5a49-4f49-b64f-10d46a423b82"
+  },
+  {
+    "id": "a605b4c2-c3e7-4178-b183-e013ae6c48df",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-help",
+    "publishedYear": 2002,
+    "userId": "3082bfc0-5a49-4f49-b64f-10d46a423b82"
+  },
+  {
+    "id": "df5fc693-4fcb-4b77-bc1c-771b42dba5ef",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Programming",
+    "publishedYear": 2008,
+    "userId": "3082bfc0-5a49-4f49-b64f-10d46a423b82"
+  }
+]
